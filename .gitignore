@@ -17,6 +17,9 @@ media
 # <django-project-name>/staticfiles/
 management/
 
+# Secret Key
+App/App/secret.py
+
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
 *.py[cod]
